@@ -7,3 +7,4 @@ My PyTorch jounary
 4. LinearRegression.ipynb
 
 
+
