@@ -5,3 +5,4 @@ My PyTorch jounary
 2. Gradient.ipynb
 3. softmax_and_CrossEntropy.ipynb
 4. LinearRegression.ipynb
+
