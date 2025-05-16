@@ -6,5 +6,3 @@ My PyTorch jounary
 3. softmax_and_CrossEntropy.ipynb
 4. LinearRegression.ipynb
 
-
-
