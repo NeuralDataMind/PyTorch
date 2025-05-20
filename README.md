@@ -8,3 +8,4 @@ My PyTorch jounary
 5. Multiclass_Classification.ipynb
 6. Activation_func.ipynb
 7. Logistic_Regression.ipynb
+8. Datasets_&_Dataloaders.ipynb
