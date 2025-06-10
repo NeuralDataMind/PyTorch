@@ -11,4 +11,3 @@ My PyTorch jounary
 8. Datasets_&_Dataloaders.ipynb
 9. Transformations.ipynb
 
-
