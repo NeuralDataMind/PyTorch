@@ -1,4 +1,4 @@
-43210987654321# PyTorch
+543210987654321# PyTorch
 My PyTorch jounary
 
 1. Intro_to_Tensor.ipynb
