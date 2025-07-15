@@ -1,4 +1,4 @@
-09431# PyTorch
+0431# PyTorch
 My PyTorch jounary
 
 1. Intro_to_Tensor.ipynb
